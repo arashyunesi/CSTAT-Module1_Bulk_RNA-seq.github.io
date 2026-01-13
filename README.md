@@ -4,5 +4,5 @@ This module contains information for workshop on bulk RNA-seq data preprocessing
 
 ## Prepare for the workshop:
 ### Setting Up R and RStudio
-#### If you don't have admin previliges on your laptop talk to your tech support
+#### If you **don't** have admin previliges on your laptop talk to your tech support
 #### If you have admin previliges on your laptop
