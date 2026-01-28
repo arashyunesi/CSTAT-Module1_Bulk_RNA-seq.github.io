@@ -1,7 +1,7 @@
 # CSTAT Workshops on RNA Sequencings:
 ## Module 1: Bulk RNA-seq
 This module contains information for workshop on bulk RNA-seq data preprocessing, analyses, and visualizations.
-
+For an interesting animation on the data preparation in the lab watch this [video.](https://www.youtube.com/watch?v=EDVKxSNdSic)
 ### Workshop Preparations:
 1. Setting Up R and RStudio
 >
